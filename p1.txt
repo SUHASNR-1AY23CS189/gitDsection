@@ -2,4 +2,6 @@ hi hello
 how are you
 suhas nr
 
-this is new line 
+this is new line
+
+line added for custom commit message
